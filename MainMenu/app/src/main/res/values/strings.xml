@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MainMenu</string>
+    <string name="username">UserName</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="new_user">New User?</string>
+    <string name="confirm_Pass">Confirm Password</string>
+    <string name="confirm_email">Confirm Email</string>
+    <string name="search">Search Bar</string>
+    <string name="food_type">Food Type</string>
+    <string name="enterName">Enter a name for the recipe</string>
+    <string name="enterIngredient">Enter An Ingredient</string>
+    <string name="tapToAddInstruction">Tap to add \n a step</string>
+    <string name="addImage"> Add an image</string>
+    <string name="createRecipe"> Create Recipe</string>
+    <string name="enterTask">Please enter the task</string>
+    <string name="taskName">Please enter the task name</string>
+    <string name="submit">Submit</string>
+    <string name="ingredientsTitle">Ingredients:</string>
+    <string name="stepTitle">Tasks:</string>
+    <string name="tapToAddIngredient">Tap to add \n an ingredient</string>
+    <string name="dependencies">Dependencies:</string>
+    <string name="duration">Duration:</string>
+</resources>
